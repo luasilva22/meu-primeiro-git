@@ -1,2 +1,3 @@
 # meu-primeiro-git
-oi mundo!
+ meu primeiro projeto
+ oi mundo! estou aprendendo github
